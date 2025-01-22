@@ -1,0 +1,38 @@
+Christoph Watson
+Log for PHZ 3150, Spring 2025
+*****IN: Wed Jan 22 08:43:47 EST 2025
+Opened TextEdit, started this log, saved as:
+/home/christophwatson/Documents/Github/phz3150/0-phz3150-christophwatson.log.txt
+
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name:Christoph Watson
+Email: ch186833@ucf.edu
+Phone: 4074866495
+Major: Computational Physics
+Year: Juninor 
+ID: 5267695
+How did you hear about this course? The academic director of the physics department told me to take this class over Introduction to Programing with C. 
+Do you have a laptop you can bring to class, install software on, etc.? Yes
+What operating system and version does it run? macOS Sequoia 14.6.1 
+How much free disk space does it have? 20.11 GB
+What operating systems are you comfortable working in? macOS
+What computer classes have you taken, including high school,
+extracurricular, etc.? Harvard CS50x Introduction to Programming
+Have you ever programmed a computer? Yes
+In what language(s)? C and Python
+Summarize your experience: Very basic understanding of memory allocation, variables, pointers, ascii, for loops, libraries, and the use of them to get the computer to do cool stuff. 
+Have you taken statistics or probability? No, but I am learning extracurricularly 
+Why are you taking this course? I want to learn to apply mathematics and physics to model and solve problems with a computer.
+Are there particular topics you hope to learn? Machine learning and data analysis. 
+If you have worked with scientific data or modeling before, briefly
+describe your experience: I have worked with the SEER database in undergraduate research. But I do want to get more involved with data analysis and modeling so I can do more research here at UCF. 
+Have you ever been involved with a science club or similar? If so,
+describe: Before I graduated from Seminole State College I was a Scholar of the National Science Foundation. That is why I participated in undergraduate research there. But it was a small school so I am much more excited to be a part of the scientific organizations here.
+*****OUT: Wed Jan 22 09:19:10 EST 2025
+
+*****IN: Wed Jan 22 09:23:52 EST 2025
+Verified packages were installed, took screenshot of Jupyter Notebook and GitHub desktop app, Opened TextEdit and updated log:
+/home/christophwatson/Documents/Github/phz3150/0-phz3150-christophwatson.log.txt
+Python version 8.27.0
+*****OUT: Wed Jan 22 09:48:16 EST 2025
